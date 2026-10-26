@@ -1,43 +1,142 @@
 <div align="center">
 
-# Kaushik Kumar Mohanta
+<img src="assets/banner.svg" alt="Kaushik Kumar Mohanta, Web Developer. Night sky, moon, torii gate and falling sakura petals." width="100%" />
 
-**Web Developer · Software Development Enthusiast**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=FF9EC0&center=true&vCenter=true&width=560&height=40&lines=Ohayo!+I'm+Kaushik;Web+developer+%C2%B7+Django+%C2%B7+MySQL;Grinding+DSA+in+C%2B%2B;Every+project+is+a+new+quest" alt="Animated intro: Ohayo! I'm Kaushik. Web developer, Django, MySQL. Grinding DSA in C++. Every project is a new quest." />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=6B8F8A&center=true&vCenter=true&width=480&lines=Building+for+the+web;Learning+by+making;One+step+at+a+time" alt="A short animated introduction" />
+<br/>
 
-*Curious about technology, thoughtful design, and building useful things.*
-
-</div>
-
----
-
-### About
-
-- Developing web applications with **HTML, CSS, JavaScript, Python, Django and MySQL**.
-- Using **C++ for data structures, algorithms and problem-solving**.
-- Enjoy learning by building projects and experimenting with technology.
-
-### Tech
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux&theme=light" alt="HTML, CSS, JavaScript, Python, Django, MySQL, C++, Git, GitHub, VS Code and Linux" />
-</p>
-
-### Selected projects
-
-- **[Nirma Art Gallery](https://github.com/kaushik00101)** — Django-based art gallery project.
-- **[Baripada — City of Art & Culture](https://github.com/kaushik00101)** — A website exploring the culture and identity of Baripada.
-- **[Personal Portfolio](https://kaushik00101.github.io/KKM-Portfolio/)** — My developer portfolio.
-
-### GitHub
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=kaushik00101&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=6B8F8A&icon_color=6B8F8A&text_color=7A8583" alt="GitHub statistics" />
+<a href="https://kaushik00101.github.io/KKM-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF9EC0?style=for-the-badge&logo=githubpages&logoColor=1a1533" alt="Portfolio" /></a>
+<a href="https://github.com/kaushik00101?tab=repositories"><img src="https://img.shields.io/badge/Repositories-B58CFF?style=for-the-badge&logo=github&logoColor=1a1533" alt="Repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=kaushik00101&label=Visitors&color=ff9ec0&style=for-the-badge" alt="Profile views" />
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🌸 Prologue
+
 <div align="center">
-  <sub>Thanks for visiting. Have a good day ☁️</sub>
+  <img src="assets/status-window.svg" alt="Status window. Class: Web Developer. Main quest: Django web apps. Side quest: DSA in C++." width="720" />
+</div>
+
+<br/>
+
+- 🏯 Building web applications with **HTML, CSS, JavaScript, Python, Django and MySQL**.
+- ⚔️ Sharpening problem-solving with **C++, data structures and algorithms**.
+- 🌙 Learning by making things, one project at a time. 開発者 (*kaihatsusha*) means "developer".
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🗡️ Skill tree
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux" alt="HTML, CSS, JavaScript, Python, Django, MySQL, C++, Git, GitHub, VS Code and Linux" />
+</picture>
+</div>
+
+| Branch | Skills |
+| :-- | :-- |
+| 🎨 **Frontend** | HTML · CSS · JavaScript |
+| ⚙️ **Backend** | Python · Django |
+| 🗄️ **Data** | MySQL |
+| 🧠 **Core** | C++ · Data structures & algorithms |
+| 🧰 **Gear** | Git · GitHub · VS Code · Linux |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📜 Quest log
+
+| Quest | What it is |
+| :-- | :-- |
+| 🖼️ **[Nirma Art Gallery](https://github.com/kaushik00101)** | A Django-based art gallery project. |
+| 🏛️ **[Baripada: City of Art & Culture](https://github.com/kaushik00101)** | A website exploring the culture and identity of Baripada. |
+| 🌐 **[Personal Portfolio](https://kaushik00101.github.io/KKM-Portfolio/)** | My developer portfolio. |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📊 Battle stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg">
+  <img alt="GitHub profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
+  <img alt="Repositories per language" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
+  <img alt="Most used languages in commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
+  <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
+</picture>
+
+<img src="https://streak-stats.demolab.com?user=kaushik00101&hide_border=true&background=00000000&ring=FF9EC0&fire=FF9EC0&currStreakNum=B58CFF&sideNums=B58CFF&currStreakLabel=FF9EC0&sideLabels=8B8FA8&dates=8B8FA8" alt="GitHub streak stats" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 👾 Arcade
+
+<div align="center">
+
+<sub>Pac-Man is eating my contribution graph</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushik00101/kaushik00101/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushik00101/kaushik00101/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kaushik00101/kaushik00101/output/pacman-contribution-graph.svg">
+</picture>
+
+<sub>...and the snake is hungry too</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushik00101/kaushik00101/snake-output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushik00101/kaushik00101/snake-output/github-snake.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/kaushik00101/kaushik00101/snake-output/github-snake.svg">
+</picture>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+1. Activity will appear here after the first workflow run.
+<!--END_SECTION:activity-->
+
+<!--
+Optional "now watching" block. Fill it in and delete the comment tags.
+
+## 📺 Currently watching
+- Title one
+- Title two
+-->
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+<sub>Thanks for visiting. Have a good day ☁️ &nbsp;·&nbsp; またね (*mata ne*), see you soon</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC0,100:B58CFF&height=110&section=footer" alt="" width="100%" />
+
 </div>
