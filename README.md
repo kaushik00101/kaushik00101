@@ -15,54 +15,10 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ⚔️ Prologue
-
-<div align="center">
-  <img src="assets/status-window.svg" alt="Status window. Class: Web Developer. Main quest: Django web apps. Side quest: DSA in C++." width="720" />
-</div>
-
-<br/>
-
-- 🏯 Building web applications with **HTML, CSS, JavaScript, Python, Django and MySQL**.
-- ⚔️ Sharpening problem-solving with **C++, data structures and algorithms**.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## 🧰 Skills
 
 <div align="center">
-  <img src="assets/skill-tree.svg" alt="Skill tree. Frontend: HTML, CSS, JavaScript. Backend: Python, Django. Database: MySQL. Core: C++. Tools: Git, GitHub, VS Code, Linux." width="760" />
-</div>
-
-## 📊 Battle stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg">
-  <img alt="GitHub profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
-  <img alt="Repositories per language" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
-  <img alt="Most used languages in commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
-  <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
-</picture>
-
-<img src="https://streak-stats.demolab.com?user=kaushik00101&hide_border=true&background=00000000&ring=4CC9F0&fire=E63946&currStreakNum=4CC9F0&sideNums=4CC9F0&currStreakLabel=E63946&sideLabels=8B8FA8&dates=8B8FA8" alt="GitHub streak stats" />
-
+  <img src="assets/skill-tree.svg" alt="Skills. Frontend: HTML, CSS, JavaScript. Backend: Python, Django. Database: MySQL. Core: C++. Tools: Git, GitHub, VS Code, Linux." width="620" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -79,31 +35,7 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kaushik00101/kaushik00101/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>...and the snake is hungry too</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushik00101/kaushik00101/snake-output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushik00101/kaushik00101/snake-output/github-snake.svg">
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/kaushik00101/kaushik00101/snake-output/github-snake.svg">
-</picture>
-
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## ⚡ Recent activity
-
-<!--START_SECTION:activity-->
-1. Activity will appear here after the first workflow run.
-<!--END_SECTION:activity-->
-
-<!--
-Optional "now watching" block. Fill it in and delete the comment tags.
-
-## 📺 Currently watching
-- Title one
-- Title two
--->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
