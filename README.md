@@ -8,9 +8,8 @@
 
 <br/>
 
-<a href="https://kaushik00101.github.io/KKM-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4CC9F0?style=for-the-badge&logo=githubpages&logoColor=0b0f1a" alt="Portfolio" /></a>
+<a href="https://kaushik00101.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4CC9F0?style=for-the-badge&logo=githubpages&logoColor=0b0f1a" alt="Portfolio" /></a>
 <a href="https://github.com/kaushik00101?tab=repositories"><img src="https://img.shields.io/badge/Repositories-E63946?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=kaushik00101&label=Visitors&color=e63946&style=for-the-badge" alt="Profile views" />
 
 </div>
 
