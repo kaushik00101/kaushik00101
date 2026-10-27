@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Kaushik Kumar Mohanta, Web Developer. Night sky, moon, torii gate and falling sakura petals." width="100%" />
+<img src="assets/banner.svg" alt="Kaushik Kumar Mohanta, Web Developer. Night sky, moon, red torii gate and drifting embers." width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=FF9EC0&center=true&vCenter=true&width=560&height=40&lines=Ohayo!+I'm+Kaushik;Web+developer+%C2%B7+Django+%C2%B7+MySQL;Grinding+DSA+in+C%2B%2B;Every+project+is+a+new+quest" alt="Animated intro: Ohayo! I'm Kaushik. Web developer, Django, MySQL. Grinding DSA in C++. Every project is a new quest." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=4CC9F0&center=true&vCenter=true&width=560&height=40&lines=Ohayo!+I'm+Kaushik;Web+developer+%C2%B7+Django+%C2%B7+MySQL;Grinding+DSA+in+C%2B%2B;Every+project+is+a+new+quest" alt="Animated intro: Ohayo! I'm Kaushik. Web developer, Django, MySQL. Grinding DSA in C++. Every project is a new quest." />
 </a>
 
 <br/>
 
-<a href="https://kaushik00101.github.io/KKM-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF9EC0?style=for-the-badge&logo=githubpages&logoColor=1a1533" alt="Portfolio" /></a>
-<a href="https://github.com/kaushik00101?tab=repositories"><img src="https://img.shields.io/badge/Repositories-B58CFF?style=for-the-badge&logo=github&logoColor=1a1533" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=kaushik00101&label=Visitors&color=ff9ec0&style=for-the-badge" alt="Profile views" />
+<a href="https://kaushik00101.github.io/KKM-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4CC9F0?style=for-the-badge&logo=githubpages&logoColor=0b0f1a" alt="Portfolio" /></a>
+<a href="https://github.com/kaushik00101?tab=repositories"><img src="https://img.shields.io/badge/Repositories-E63946?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=kaushik00101&label=Visitors&color=e63946&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🌸 Prologue
+## ⚔️ Prologue
 
 <div align="center">
   <img src="assets/status-window.svg" alt="Status window. Class: Web Developer. Main quest: Django web apps. Side quest: DSA in C++." width="720" />
@@ -65,29 +65,29 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/0-profile-details.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg">
   <img alt="GitHub profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
   <img alt="Repositories per language" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
   <img alt="Most used languages in commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/dracula/3-stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
   <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
 </picture>
 
-<img src="https://streak-stats.demolab.com?user=kaushik00101&hide_border=true&background=00000000&ring=FF9EC0&fire=FF9EC0&currStreakNum=B58CFF&sideNums=B58CFF&currStreakLabel=FF9EC0&sideLabels=8B8FA8&dates=8B8FA8" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=kaushik00101&hide_border=true&background=00000000&ring=4CC9F0&fire=E63946&currStreakNum=4CC9F0&sideNums=4CC9F0&currStreakLabel=E63946&sideLabels=8B8FA8&dates=8B8FA8" alt="GitHub streak stats" />
 
 </div>
 
@@ -137,6 +137,6 @@ Optional "now watching" block. Fill it in and delete the comment tags.
 
 <sub>Thanks for visiting. Have a good day ☁️ &nbsp;·&nbsp; またね (*mata ne*), see you soon</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC0,100:B58CFF&height=110&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:4CC9F0&height=110&section=footer" alt="" width="100%" />
 
 </div>

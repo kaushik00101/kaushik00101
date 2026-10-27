@@ -1,0 +1,26 @@
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "15 1 * * *"     # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # A classic PAT (read:user, repo) stored as a repo secret is the most
+          # reliable option. If you skip it, the default token is used and some
+          # cards may not generate. See SETUP.md.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
