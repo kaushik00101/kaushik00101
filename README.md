@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Kaushik Kumar Mohanta, Web Developer. Night sky, moon, red torii gate and drifting embers." width="100%" />
+<img src="assets/banner.svg" alt="Kaushik Kumar Mohanta, Developer. Night sky, moon, red torii gate and drifting embers." width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=4CC9F0&center=true&vCenter=true&width=560&height=40&lines=Ohayo!+I'm+Kaushik;Web+developer+%C2%B7+Django+%C2%B7+MySQL" alt="Animated intro: Ohayo! I'm Kaushik. Web developer, Django, and MySQL." />
@@ -32,22 +32,8 @@
 ## 🧰 Skills
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux&theme=light">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,cpp,git,github,vscode,linux" alt="HTML, CSS, JavaScript, Python, Django, MySQL, C++, Git, GitHub, VS Code and Linux" />
-</picture>
+  <img src="assets/skill-tree.svg" alt="Skill tree. Frontend: HTML, CSS, JavaScript. Backend: Python, Django. Database: MySQL. Core: C++. Tools: Git, GitHub, VS Code, Linux." width="760" />
 </div>
-
-| Category | Skills |
-| :-- | :-- |
-| 🎨 **Frontend** | HTML · CSS · JavaScript |
-| ⚙️ **Backend** | Python · Django |
-| 🗄️ **Data** | MySQL |
-| 🧠 **Core** | C++ · Data structures & algorithms |
-| 🧰 **Gear** | Git · GitHub · VS Code · Linux |
-
-
 
 ## 📊 Battle stats
 
