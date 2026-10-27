@@ -1,6 +1,9 @@
 name: Profile summary cards
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "15 1 * * *"     # daily
   workflow_dispatch:

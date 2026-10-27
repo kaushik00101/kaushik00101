@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Kaushik Kumar Mohanta, Web Developer. Night sky, moon, red torii gate and drifting embers." width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=4CC9F0&center=true&vCenter=true&width=560&height=40&lines=Ohayo!+I'm+Kaushik;Web+developer+%C2%B7+Django+%C2%B7+MySQL;Grinding+DSA+in+C%2B%2B;Every+project+is+a+new+quest" alt="Animated intro: Ohayo! I'm Kaushik. Web developer, Django, MySQL. Grinding DSA in C++. Every project is a new quest." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=4CC9F0&center=true&vCenter=true&width=560&height=40&lines=Ohayo!+I'm+Kaushik;Web+developer+%C2%B7+Django+%C2%B7+MySQL" alt="Animated intro: Ohayo! I'm Kaushik. Web developer, Django, and MySQL." />
 </a>
 
 <br/>
@@ -26,11 +26,10 @@
 
 - 🏯 Building web applications with **HTML, CSS, JavaScript, Python, Django and MySQL**.
 - ⚔️ Sharpening problem-solving with **C++, data structures and algorithms**.
-- 🌙 Learning by making things, one project at a time. 開発者 (*kaihatsusha*) means "developer".
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🗡️ Skill tree
+## 🧰 Skills
 
 <div align="center">
 <picture>
@@ -40,7 +39,7 @@
 </picture>
 </div>
 
-| Branch | Skills |
+| Category | Skills |
 | :-- | :-- |
 | 🎨 **Frontend** | HTML · CSS · JavaScript |
 | ⚙️ **Backend** | Python · Django |
@@ -48,17 +47,7 @@
 | 🧠 **Core** | C++ · Data structures & algorithms |
 | 🧰 **Gear** | Git · GitHub · VS Code · Linux |
 
-<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📜 Quest log
-
-| Quest | What it is |
-| :-- | :-- |
-| 🖼️ **[Nirma Art Gallery](https://github.com/kaushik00101)** | A Django-based art gallery project. |
-| 🏛️ **[Baripada: City of Art & Culture](https://github.com/kaushik00101)** | A website exploring the culture and identity of Baripada. |
-| 🌐 **[Personal Portfolio](https://kaushik00101.github.io/KKM-Portfolio/)** | My developer portfolio. |
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 Battle stats
 
