@@ -9,7 +9,7 @@ SETUP.md                  (optional, you can delete it)
 assets/
   banner.svg
   status-window.svg
-  skill-tree.svg
+  skills.svg
   divider.svg
 .github/workflows/
   pacman.yml

@@ -18,7 +18,7 @@
 ## 🧰 Skills
 
 <div align="center">
-  <img src="assets/skill-tree.svg" alt="Skills. Frontend: HTML, CSS, JavaScript. Backend: Python, Django. Database: MySQL. Core: C++. Tools: Git, GitHub, VS Code, Linux." width="620" />
+  <img src="assets/skills.svg" alt="Skills. Frontend: HTML, CSS, JavaScript. Backend: Python, Django. Database: MySQL. Core: C++. Tools: Git, GitHub, VS Code, Linux." width="620" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
